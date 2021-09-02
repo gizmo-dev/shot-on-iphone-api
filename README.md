@@ -70,7 +70,7 @@ Also please see the [open issues](https://github.com/gizmo-dev/shot-on-iphone-ap
 If you use the api in your projects then consider showing some support with a cup of coffee.
 
 [buymeacoffee-shield]: https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-1.svg
-[buymeacoffee]: https://www.buymeacoffee.com/gizmolab
+[buymeacoffee]: https://www.buymeacoffee.com/gizmoxgg
 [![Buy me a coffee][buymeacoffee-shield]][buymeacoffee]
 
 <br/>
